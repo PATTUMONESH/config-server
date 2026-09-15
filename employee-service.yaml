@@ -1,6 +1,6 @@
 spring:  
   boot:
-    message: Hello from Employee Config Server
+    message: Hello from Employee Config Server spring bus
   datasource:
     url: jdbc:mysql://localhost:3306/employee_db
     username: root
