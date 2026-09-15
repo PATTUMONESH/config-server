@@ -4,7 +4,7 @@ spring:
     username: root
     password: root
   boot:
-    message: Hello from Department Config Server  
+    message: Hello from Department Config Server updated
   jpa:
     properties:
       hibernate:
